@@ -1,0 +1,29 @@
+#biography
+{
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20 px;
+    background-color:#f2f2f2;
+    text-align: center;
+}
+h1
+{
+    color: #333333;
+    font-size: 24 px;
+    margin-bottom: 10 px;
+    text-decoration: red;
+
+}
+img
+{
+    width:300 px;
+    border-radius: 50%;
+    margin-bottom: 20 px;
+}
+p
+{
+  color: #555;
+  font-size:16 px ;
+  line-height: 1.5;
+  text-align: left;  
+}
